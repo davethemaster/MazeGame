@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  MazeGame.cpp
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(24): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(25): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(26): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(27): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(28): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(29): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(31): warning C4309: 'initializing': truncation of constant value
+c:\users\lacan\source\repos\mazegame\mazegame\mazegame.cpp(141): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MazeGame.vcxproj -> C:\Users\lacan\source\repos\MazeGame\Debug\MazeGame.exe
